@@ -1,0 +1,12 @@
+# Azure AI Agent Framework
+azure-ai-agents>=1.0.0
+agent-framework-core>=0.1.0
+
+# Azure AI Foundry
+azure-identity>=1.15.0
+azure-core>=1.29.0
+
+# Additional dependencies
+python-dotenv>=1.0.0
+asyncio>=3.4.3
+typing-extensions>=4.8.0
